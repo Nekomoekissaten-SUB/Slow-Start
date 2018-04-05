@@ -1,4 +1,4 @@
 # Slow-Start
 
-![poster](https://github.com/Nekomoekissaten/Slow-Start/blob/master/poster)
-![poster](https://github.com/Nekomoekissaten/Slow-Start/blob/master/recruit)
+![poster](https://github.com/Nekomoekissaten-SUB/Slow-Start/blob/master/poster.jpg)
+![poster](https://github.com/Nekomoekissaten-SUB/Slow-Start/blob/master/recruit.jpg)
